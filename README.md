@@ -79,7 +79,7 @@ Below are sample outputs showing original image, segmentation mask, and final re
 
 | Original Image             | Segmentation Mask      | Final Stylized Output           |
 | -------------------------- | ---------------------- | ------------------------------- |
-| ![](examples/original.jpg) | ![](examples/mask.jpg) | ![](examples/output_galaxy.jpg) |
+| ![](output/original.jpg)   | ![](output/mask.jpg)   | ![](output/styled.jpg)          |
 
 ---
 
