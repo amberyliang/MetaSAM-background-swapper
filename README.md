@@ -79,7 +79,7 @@ Below are sample outputs showing original image, segmentation mask, and final re
 
 | Original Image             | Segmentation Mask      | Final Stylized Output           |
 | -------------------------- | ---------------------- | ------------------------------- |
-| ![](output/original.jpg)   | ![](output/mask.jpg)   | ![](output/styled.jpg)          |
+| ![](https://github.com/amberyliang/MetaSAM-background-swapper/blob/main/output/original.png)  | ![](https://github.com/amberyliang/MetaSAM-background-swapper/blob/main/output/mask.png)    | ![](https://github.com/amberyliang/MetaSAM-background-swapper/blob/main/output/styled.png)         |
 
 ---
 
